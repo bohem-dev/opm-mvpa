@@ -1,7 +1,7 @@
 """
 Script: mvpa.py
 Version: 1.0
-Author: bohem-dev
+Author: Philip Press
 Date: [20-03-2025]
 License: MIT License (https://opensource.org/licenses/MIT)
 
